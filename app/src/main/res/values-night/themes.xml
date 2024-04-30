@@ -3,5 +3,12 @@
     <style name="Base.Theme.Melisearch" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/yellow</item>
     </style>
+
+    <style name="ButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/grey</item>
+    </style>
+
+    <style name="Theme.Melisearch" parent="Base.Theme.Melisearch" />
 </resources>
