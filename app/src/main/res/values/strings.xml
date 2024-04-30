@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">melisearch</string>
+    <string name="search_message">Busca productos, marcas y más...</string>
+    <string name="search">Buscar</string>
+    <string name="close">Cerrar</string>
+    <string name="price">Precio del producto</string>
+    <string name="simbol">$ </string>
+    <string name="product_name">Nombre del producto </string>
+    <string name="image_product">Imagen del producto</string>
 </resources>
